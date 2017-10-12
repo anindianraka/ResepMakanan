@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string-array name="JudulResep">
+        <item>Rendang</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Uduk</item>
+        <item>Ayam Bakar Madu</item>
+    </string-array>
+
+    <string-array name="PenjelasanResep">
+        <item>Rendang enak banget loh!</item>
+        <item>Nasi Goreng ala cak tanto...</item>
+        <item>Nasi Uduk khas Jakarta</item>
+        <item>Ayam Bakar Madu ciamik leb leb...</item>
+    </string-array>
+    <string-array name="LangkahResep">
+        <item>
+            - 1.5 kg daging\n
+            - 2 liter santan dari 2 butir kelapa tua\n
+            - Bumbu dan Rempah Untuk Membuat Rendang Minang Asli\n
+            - 2 batang daun serai, memarkan\n
+            - 4 lembar daun jeruk purut\n
+            - 2 cm asam kandis/gelugur\n
+            - 2 lembar daun kunyit, simpulka\n
+            Cara Membuat :\n
+            Pertama tama olah daging yang sudah disiapkan, potong-potong daging rendang dengan bentuk dadu atau seukuran\n
+            yang diinginkan, hanya saja jangan pernah memotong daging terlalu kecil untuk diolah menjadi rendang agar saat\n
+            dimasak nanti daging tidak hancur.\n
+        </item>
+        <item>
+            - 1.5 kg daging\n
+            - 2 liter santan dari 2 butir kelapa tua\n
+            - Bumbu dan Rempah Untuk Membuat Rendang Minang Asli\n
+            - 2 batang daun serai, memarkan\n
+            - 4 lembar daun jeruk purut\n
+            - 2 cm asam kandis/gelugur\n
+            - 2 lembar daun kunyit, simpulka\n
+            Cara Membuat :\n
+            Pertama tama olah daging yang sudah disiapkan, potong-potong daging rendang dengan bentuk dadu atau seukuran\n
+            yang diinginkan, hanya saja jangan pernah memotong daging terlalu kecil untuk diolah menjadi rendang agar saat\n
+            dimasak nanti daging tidak hancur.\n
+        </item>
+        <item>
+            - 1.5 kg daging\n
+            - 2 liter santan dari 2 butir kelapa tua\n
+            - Bumbu dan Rempah Untuk Membuat Rendang Minang Asli\n
+            - 2 batang daun serai, memarkan\n
+            - 4 lembar daun jeruk purut\n
+            - 2 cm asam kandis/gelugur\n
+            - 2 lembar daun kunyit, simpulka\n
+            Cara Membuat :\n
+            Pertama tama olah daging yang sudah disiapkan, potong-potong daging rendang dengan bentuk dadu atau seukuran\n
+            yang diinginkan, hanya saja jangan pernah memotong daging terlalu kecil untuk diolah menjadi rendang agar saat\n
+            dimasak nanti daging tidak hancur.\n
+        </item>
+        <item>
+            - 1.5 kg daging\n
+            - 2 liter santan dari 2 butir kelapa tua\n
+            - Bumbu dan Rempah Untuk Membuat Rendang Minang Asli\n
+            - 2 batang daun serai, memarkan\n
+            - 4 lembar daun jeruk purut\n
+            - 2 cm asam kandis/gelugur\n
+            - 2 lembar daun kunyit, simpulka\n
+            Cara Membuat :\n
+            Pertama tama olah daging yang sudah disiapkan, potong-potong daging rendang dengan bentuk dadu atau seukuran\n
+            yang diinginkan, hanya saja jangan pernah memotong daging terlalu kecil untuk diolah menjadi rendang agar saat\n
+            dimasak nanti daging tidak hancur.\n
+        </item>
+    </string-array>
+
+</resources>
